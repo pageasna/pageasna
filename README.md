@@ -1,8 +1,11 @@
 ## Hello!! This is Asna Mirza👋
 
 🎓 **UnderGrad CA Student | Aspiring Software Developer**  
+
 💻 Passionate about coding, problem-solving & creating projects that matter  
+
 🌱 Currently learning **Data Structures, Java, Python and Web Development**    
+
 🎮 Passionate about **Game Development**
 
 🤖 Exploring **Artificial Intelligence & Machine Learning (AI/ML)**
