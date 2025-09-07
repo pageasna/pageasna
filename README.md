@@ -5,8 +5,8 @@
 🌱 Currently learning **Data Structures, Java, Python and Web Development**    
 🎮 Passionate about **Game Development**
 🤖 Exploring **Artificial Intelligence & Machine Learning (AI/ML)**
-🛡️ Interested in **Cyber Security**
-🏢 Aspiring to work with leading tech companies such as **Samsung**
+  🛡️ Interested in **Cyber Security**
+  🏢 Aspiring to work with leading tech companies such as **Samsung**
 🚀 Focused on building strong fundamentals and exploring open-source
 
 
