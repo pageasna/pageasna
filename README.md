@@ -1,6 +1,6 @@
 ## Hello!! This is Asna Mirza👋
 
-🎓 **UnderGrad CA Student | Aspiring Software Developer**  
+🎓 **UnderGrad CS Student | Aspiring Software Developer**  
 
 💻 Passionate about coding, problem-solving & creating projects that matter  
 
