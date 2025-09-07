@@ -1,8 +1,5 @@
 ## Hello!! This is Asna Mirza👋
 
-<!--
-**pageasna/pageasna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎓 **UnderGrad CA Student | Aspiring Software Developer**  
 💻 Passionate about coding, problem-solving & creating projects that matter  
 🌱 Currently learning **Data Structures, Java, Python and Web Development**    
