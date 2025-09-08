@@ -27,9 +27,10 @@
 
 
 ## 📂 Current Repositories
-- [**Java Programs**](#) – Weekly assignments & problem-solving in Java  
 - [**C Programs**](#) – Data Structures (arrays, stacks, queues, linked lists)  
-- [**Web Projects**](#) – Practice projects with HTML/CSS/JS  
+- [**Java Programs**](#) – Weekly assignments & problem-solving in Java  
+  
+  
 
 ---
 
