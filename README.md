@@ -1,7 +1,6 @@
 ### 🖤 inspo / moodboard
 
-[![._gif](./._gif.jpg)](https://in.pinterest.com/pin/4996249583230674/)
-
+[![coolroom](./coolroom.gif)](https://in.pinterest.com/pin/4996249583230674/)
 
 <h1 align="center">👾 Hello!! I'm Asna Mirza 🕶️</h1>
 <h3 align="center">Game Dev in the making • CS Undergrad • Author </h3>
