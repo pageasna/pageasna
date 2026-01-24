@@ -23,6 +23,10 @@
 🏢 Long-term goal: work with big tech like **Samsung**  
 🚀 Currently building strong fundamentals, meaningful projects & open-source confidence  
 
+
+## 🏆 My Holopin Rack 😎
+[![An image of @pageasna's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pageasna)](https://holopin.io/@pageasna)
+
 ⚡ **Fun Fact:** I genuinely think I have a good eye for fashion 👀🖤  
 
 ---
