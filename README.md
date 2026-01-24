@@ -1,6 +1,5 @@
 ### 🖤 inspo / moodboard
 
-[![Pinterest Embed](https://i.pinimg.com/564x/49/96/24/4996249583230674.jpg)](https://in.pinterest.com/pin/4996249583230674/)
 
 
 <h1 align="center">👾 Hello!! I'm Asna Mirza 🕶️</h1>
