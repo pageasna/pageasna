@@ -1,5 +1,6 @@
 ### 🖤 inspo / moodboard
 
+[![._gif](./._gif.jpg)](https://in.pinterest.com/pin/4996249583230674/)
 
 
 <h1 align="center">👾 Hello!! I'm Asna Mirza 🕶️</h1>
