@@ -65,8 +65,7 @@
 
 ## 👨‍💻 projects & repositories (WIP but valid 🔥)
 
-🔗 **All my projects live here:**  
-👉 [github.com/pageasna](https://github.com/pageasna)  
+🔗 **All my projects live here:**  [Github-pageasna](https://github.com/pageasna)  
 
 ### 📘 C Programs
 - Core **Data Structures** implementations  
