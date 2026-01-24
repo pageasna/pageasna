@@ -3,7 +3,7 @@
 [![coolroom](./coolroom.gif)](https://in.pinterest.com/pin/4996249583230674/)
 
 
-<h1 align="center">👾 Hello!! I'm Asna Mirza 🕶️</h1>
+<h1 align="center">👾 Hello!! I'm Asna Mirza </h1>
 <h3 align="center">Game Dev in the making • CS Undergrad • Author</h3>
 
 <p align="center">
@@ -158,14 +158,14 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--Snake Game Repo View -->
-
- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> 
-
 ---
 
 🌑 *Learning. Building. Leveling up.*  
 🎮 *Main quest: cracked software dev arc.*  
 🖤 *Moodboard, music, code – everything fueling the journey.*
+
+<!--Snake Game Repo View -->
+
+ <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div> 
