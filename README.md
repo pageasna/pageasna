@@ -1,39 +1,144 @@
-## Hello!! This is Asna Mirza👋
+### 🖤 inspo / moodboard
 
-🎓 **UnderGrad CS Student | Aspiring Software Developer**  
-
-💻 Passionate about coding, problem-solving & creating projects that matter  
-
-🌱 Currently learning **Data Structures, Java, Python and Web Development**    
-
-🎮 Passionate about **Game Development**
-
-🤖 Exploring **Artificial Intelligence & Machine Learning (AI/ML)**
-
-🛡️ Interested in **Cyber Security**
-
-🏢 Aspiring to work with leading tech companies such as **Samsung**
-
-🚀 Focused on building strong fundamentals and exploring open-source
+[![Pinterest Embed](https://i.pinimg.com/564x/49/96/24/4996249583230674.jpg)](https://in.pinterest.com/pin/4996249583230674/)
 
 
+<h1 align="center">👾 Hello!! I'm Asna Mirza 🕶️</h1>
+<h3 align="center">Game Dev in the making • CS Undergrad • Author </h3>
 
-## 🔧 Skills & Learning
-- **Languages**: C, C++, Java, Python, HTML, CSS, JavaScript  
-- **Concepts**: Data Structures & Algorithms, OOP, DBMS  
-- **Tools**: Git, GitHub, VS Code, IntelliJ IDEA  
-- **Other Skills**: Logical reasoning, problem-solving, teamwork  
-
-
-
-## 📂 Current Repositories
-- [**C Programs**](#) – Data Structures (arrays, stacks, queues, linked lists)  
-- [**Java Programs**](#) – Weekly assignments & problem-solving in Java  
-  
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pageasna&label=PROFILE%20VIEWS&color=7c3aed&style=flat-square" alt="pageasna" />
+</p>
 
 ---
 
-## 🌸 Fun Fact
-I love experimenting with new tech & sharing my learning journey 🚀  
+## 🧠 about_me.exe
 
+🎓 **Undergraduate Computer Science Student**  
+💻 I like solving problems, breaking code, fixing it, and pretending it was intentional  
+🌱 Currently learning **DSA, Java, Python & Web Development**  
+🎮 Very into **Game Development** (interactive > static, always)  
+🤖 Exploring **AI / ML** because the future is inevitable  
+🛡️ Curious about **Cyber Security** (learning how things break before building them)  
+🏢 Long-term goal: work with big tech like **Samsung**  
+🚀 Right now: building fundamentals, projects & open-source confidence
+
+⚡ **Fun Fact:** I genuinely think I have a good eye for fashion 👀🖤
+
+---
+
+## 🔭 current grind (no breaks, only commits)
+
+📌 **DBMS**
+- SQL queries, schemas & relationships  
+- Normalization, keys, transactions  
+- Slowly accepting that DBMS has feelings
+
+🛡️ **Cyber Security**
+- Basics of security principles  
+- Understanding vulnerabilities  
+- Learning how *not* to get hacked
+
+🧮 **Data Structures & Algorithms**
+- Arrays, stacks, queues, linked lists  
+- Logic building & problem-solving mindset
+
+☕ **Java**
+- OOP concepts  
+- Assignments + practice problems  
+- Writing cleaner, readable code
+
+🐍 **Python**
+- Logic building  
+- Scripting & experimenting  
+
+🌐 **Web Development**
+- HTML, CSS, JavaScript  
+- Making things functional *and* aesthetic
+
+---
+
+## 👨‍💻 projects & repositories (WIP but valid 🔥)
+
+🔗 **All my projects live here:**  
+👉 https://github.com/pageasna  
+
+### 📘 C Programs
+- Core **Data Structures** implementation  
+- Arrays, stacks, queues, linked lists  
+- Focused on logic, fundamentals & clarity  
+
+### ☕ Java Programs
+- Weekly academic assignments  
+- OOP practice  
+- Problem-solving & structured code  
+
+### 👀 Upcoming
+- DBMS mini-projects  
+- Cyber Security practice labs  
+- Game dev experiments 🎮  
+
+📄 **Experience:**  
+- **Team Engage @ IEEE CS**
+
+---
+
+## 🛠️ tech stack (tools I survive on)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+</p>
+
+---
+
+## 🔧 skills & strengths
+
+- **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript  
+- **Concepts:** DSA, OOP, DBMS  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
+- **Soft Skills:** Logical thinking, problem-solving, teamwork  
+
+---
+
+## 🌐 connect_with_me();
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/asna-mirza" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/pageasna" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://discord.gg/anneverse13" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
+  </a>
+</p>
+
+📫 **Email:** asnamirza2020@gmail.com  
+
+---
+
+## 📊 github stats (numbers but make it aesthetic)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pageasna&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pageasna&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+🌑 *Learning. Building. Leveling up.*  
+🎮 *Main quest: cracked software dev arc.*
