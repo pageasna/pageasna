@@ -1,16 +1,14 @@
 ### 🖤 inspo / moodboard
 
-[![Cool setup](./Cool setup.gif)](./https://github.com/pageasna/pageasna/blob/main/Cool%20setup.gif)
-
-
-
-<h1 align="center">👾 Hello!! I'm Asna Mirza </h1>
-<h3 align="center">Game Dev in the making • CS Undergrad • Author</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pageasna&label=PROFILE%20VIEWS&color=7c3aed&style=flat-square" alt="pageasna" />
+  <img src="https://github.com/pageasna/pageasna/blob/main/Cool setup.gif" width="100%" />
 </p>
 
+<h1 align="center">🌸 Hi, I'm Asna >.< </h1>
+
+<p align="center">
+  <em> Game Dev in the making . CS Undergrad . Author </em>
+</p>
 ---
 
 ## 🧠 about_me.exe
