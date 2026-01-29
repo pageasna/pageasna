@@ -1,6 +1,6 @@
 ### 🖤 inspo / moodboard
 
-[![coolroom](./coolroom.gif)](https://in.pinterest.com/pin/4996249583230674/)
+[![coolroom](./coolroom.gif)](https://i.pinimg.com/originals/70/19/08/701908f6fd0b113b9b493ba689fd0e71.gif)
 
 
 <h1 align="center">👾 Hello!! I'm Asna Mirza </h1>
