@@ -4,10 +4,10 @@
   <img src="https://github.com/pageasna/pageasna/blob/main/Cool setup.gif" width="100%" />
 </p>
 
-<h1 align="center">🌸 Hi, I'm Asna >.< </h1>
+<h1 align="center"> 👾 Hi, I'm Asna </h1>
 
 <p align="center">
-  <em> Game Dev in the making . CS Undergrad . Author </em>
+  <em> Game Dev in the making ● CS Undergrad ● Author </em>
 </p>
 ---
 
