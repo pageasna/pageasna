@@ -1,6 +1,6 @@
 ### 🖤 inspo / moodboard
 
-[![Cool setup](./Cool setup.gif)](./newgif.gif)
+[![Cool setup](./Cool setup.gif)](./https://github.com/pageasna/pageasna/blob/main/Cool%20setup.gif)
 
 
 
