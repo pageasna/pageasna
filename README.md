@@ -1,169 +1,109 @@
-### 🖤 inspo / moodboard
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="asna banner" />
+</p>
+
+<br/>
 
 <p align="center">
-  <img src="https://github.com/pageasna/pageasna/blob/main/Cool setup.gif" width="100%" />
-</p>
-
-<h1 align="center"> 👾 Hi, I'm Asna </h1>
-
-<p align="center">
-  <em> Game Dev in the making ● CS Undergrad ● Author </em>
-</p>
----
-
-## 🧠 about_me.exe
-
-🎓 **Undergraduate Computer Science Student**  
-💻 I like solving problems, breaking code, fixing it, and pretending it was intentional  
-🌱 Currently learning **DSA, Java, Python & Web Development**  
-🎮 Deeply into **Game Development** (interactive > static, always)  
-🤖 Exploring **AI / ML** because the future is already here  
-🛡️ Curious about **Cyber Security** (learning how systems break before securing them)  
-🏢 Long-term goal: work with big tech like **Samsung**  
-🚀 Currently building strong fundamentals, meaningful projects & open-source confidence  
-
-
-## 🏆 My Holopin Rack 😎
-[![An image of @pageasna's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pageasna)](https://holopin.io/@pageasna)
-
-⚡ **Fun Fact:** I genuinely think I have a good eye for fashion 👀🖤  
-
----
-
-## 🔭 current grind (no breaks, only commits)
-
-📌 **DBMS**  
-- SQL queries, schemas & relationships  
-- Normalization, keys, transactions  
-- Slowly accepting that DBMS has feelings  
-
-🛡️ **Cyber Security**  
-- Core security principles  
-- Common vulnerabilities & attack surfaces  
-- Learning how *not* to get hacked  
-
-🧮 **Data Structures & Algorithms**  
-- Arrays, stacks, queues, linked lists  
-- Logic building & efficiency-focused thinking  
-- Practicing problem-solving daily  
-
-☕ **Java**  
-- Object-Oriented Programming  
-- Weekly assignments + practice problems  
-- Writing cleaner, readable & structured code  
-
-🐍 **Python**  
-- Logic building & scripting  
-- Small experiments & practice programs  
-
-🌐 **Web Development**  
-- HTML, CSS, JavaScript  
-- Building interfaces that work *and* look aesthetic  
-
----
-
-## 👨‍💻 projects & repositories (WIP but valid 🔥)
-
-🔗 **All my projects live here:**  [Github-pageasna](https://github.com/pageasna)  
-
-### 📘 C Programs
-- Core **Data Structures** implementations  
-- Arrays, stacks, queues, linked lists  
-- Focused on fundamentals, clarity & logic  
-
-### ☕ Java Programs
-- Weekly academic assignments  
-- OOP-focused programs  
-- Problem-solving & structured solutions  
-
-### 👀 Upcoming
-- DBMS mini-projects  
-- Cyber Security labs  
-- Game dev experiments 🎮  
-
-📄 **Experience**  
-- **Team Engage @ IEEE CS**
-
----
-
-## 🛠️ tech stack (tools I survive on)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-</p>
-
----
-
-## 🔧 skills & strengths
-
-- **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript  
-- **Concepts:** DSA, OOP, DBMS  
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
-- **Soft Skills:** Logical thinking, problem-solving, teamwork  
-
----
-
-## 🎧 currently playing (on repeat / coding fuel)
-
-<div align="center">
-  👉 <a href="https://open.spotify.com/user/315kywbcgumr3j4c4bwdb7ykxigy?si=4XKz39gpTo2wKNATMFMtbg">click me, enter the void</a>
-</div>
-
-🎶 Late nights, soft lights, code compiling, music flowing  
-🖤 The playlist that fuels problem-solving & creative chaos  
-
----
-
-## 🌐 connect_with_me();
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/asna-mirza" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/pageasna" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://discord.gg/anneverse13" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-  </a>
-</p>
-
-📫 **Email:** asnamirza2020@gmail.com  
-
----
-
-## 📊 github stats (numbers but aesthetic af)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pageasna&layout=compact&theme=tokyonight"/>
+  ୨ৎ ────────────────── ୨ৎ
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pageasna&show_icons=true&theme=tokyonight"/>
+  <em>game dev in the making · cs undergrad · author</em><br/>
+  <sub>( still figuring it out . — loop . )</sub>
 </p>
 
+<p align="center">
+  she / they &nbsp;✦&nbsp; utc +5:30 &nbsp;✦&nbsp; breaking code, fixing it, pretending it was intentional
+</p>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
----
+<p align="center">
+  ❧
+</p>
 
-🌑 *Learning. Building. Leveling up.*  
-🎮 *Main quest: cracked software dev arc.*  
-🖤 *Moodboard, music, code – everything fueling the journey.*
+<p align="center">
+  currently learning <b>dsa · java · python · web dev</b><br/>
+  exploring <b>ai/ml</b> and <b>cyber security</b><br/>
+  building toward <b>samsung</b>, one commit at a time
+</p>
 
-<!--Snake Game Repo View -->
+<br/>
 
- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> 
+<p align="center">
+  ⋆ ˚｡⋆୨ 🎮 game dev is the main quest ୧⋆｡˚ ⋆
+</p>
+
+<p align="center">
+  <sub>interactive &gt; static, always — prototyping little worlds in Unity between assignments<br/>
+  half of my brain is DSA, the other half is asking "but what if this were a game"</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  ────── ⋆⋅☆⋅⋆ ──────
+</p>
+
+<h3 align="center">tech stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,unity,git,mysql&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-3a3226?style=flat-square&logo=c&logoColor=ede4d3" />
+  <img src="https://img.shields.io/badge/C++-3a3226?style=flat-square&logo=cplusplus&logoColor=ede4d3" />
+  <img src="https://img.shields.io/badge/Java-3a3226?style=flat-square&logo=openjdk&logoColor=ede4d3" />
+  <img src="https://img.shields.io/badge/Python-3a3226?style=flat-square&logo=python&logoColor=ede4d3" />
+  <img src="https://img.shields.io/badge/JavaScript-3a3226?style=flat-square&logo=javascript&logoColor=ede4d3" />
+  <img src="https://img.shields.io/badge/Unity-3a3226?style=flat-square&logo=unity&logoColor=ede4d3" />
+  <img src="https://img.shields.io/badge/MySQL-3a3226?style=flat-square&logo=mysql&logoColor=ede4d3" />
+  <img src="https://img.shields.io/badge/Git-3a3226?style=flat-square&logo=git&logoColor=ede4d3" />
+</p>
+
+<br/>
+
+<p align="center">
+  ────── ⋆⋅☆⋅⋆ ──────
+</p>
+
+<h3 align="center">a l g o r i t h m</h3>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pageasna&show_icons=true&hide_border=true&bg_color=00000000&title_color=3a3226&text_color=3a3226&icon_color=3a3226&border_color=3a3226" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pageasna&layout=compact&hide_border=true&bg_color=00000000&title_color=3a3226&text_color=3a3226&border_color=3a3226" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pageasna&hide_border=true&background=00000000&ring=3a3226&fire=3a3226&currStreakLabel=3a3226&sideLabels=3a3226&currStreakNum=211c15&sideNums=211c15&dates=3a3226" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pageasna&hide_border=true&bg_color=00000000&color=3a3226&line=3a3226&point=211c15" width="90%" />
+</p>
+
+<br/>
+
+<p align="center">
+  ────── ⋆⋅☆⋅⋆ ──────
+</p>
+
+<p align="center">
+  <a href="https://github.com/pageasna">github</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/asna-mirza">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/pageasna">instagram</a> &nbsp;·&nbsp;
+  <a href="https://discord.gg/anneverse13">discord</a> &nbsp;·&nbsp;
+  <a href="mailto:asnamirza2020@gmail.com">email</a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pageasna&style=flat-square&color=3a3226&label=visits" />
+</p>
+
+<p align="center">
+  ୨ৎ ────────────────── ୨ৎ
+</p>
