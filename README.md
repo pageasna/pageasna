@@ -88,8 +88,8 @@ brain:      50% DSA, 50% "but what if this
 <h3 align="center">঄ a l g o r i t h m ঄</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pageasna&show_icons=true&hide_border=true&bg_color=00000000&title_color=3a3226&text_color=3a3226&icon_color=3a3226&border_color=3a3226" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pageasna&layout=compact&hide_border=true&bg_color=00000000&title_color=3a3226&text_color=3a3226&border_color=3a3226" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=pageasna&show_icons=true&hide_border=true&bg_color=00000000&title_color=3a3226&text_color=3a3226&icon_color=3a3226&border_color=3a3226" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pageasna&layout=compact&hide_border=true&bg_color=00000000&title_color=3a3226&text_color=3a3226&border_color=3a3226" />
 </p>
 
 <p align="center">
@@ -122,6 +122,12 @@ brain:      50% DSA, 50% "but what if this
 </p>
 
 <h3 align="center">঄ find me ঄</h3>
+
+<p align="center">
+  <a href="https://instagram.com/pageasna">
+    <img src="./instagram.jpeg" width="220" alt="pageasna on instagram" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/pageasna"><img src="https://img.shields.io/badge/github-3a3226?style=for-the-badge&logo=github&logoColor=ede4d3" /></a>
