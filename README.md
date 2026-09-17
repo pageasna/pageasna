@@ -93,7 +93,7 @@ brain:      50% DSA, 50% "but what if this
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pageasna&hide_border=true&background=00000000&ring=3a3226&fire=3a3226&currStreakLabel=3a3226&sideLabels=3a3226&currStreakNum=211c15&sideNums=211c15&dates=3a3226" />
+  <img src="https://streak-stats.demolab.com/?user=pageasna&hide_border=true&background=00000000&ring=3a3226&fire=3a3226&currStreakLabel=3a3226&sideLabels=3a3226&currStreakNum=211c15&sideNums=211c15&dates=3a3226" />
 </p>
 
 <p align="center">
@@ -124,17 +124,19 @@ brain:      50% DSA, 50% "but what if this
 <h3 align="center">঄ find me ঄</h3>
 
 <p align="center">
-  <a href="https://instagram.com/pageasna">
-    <img src="./instagram.jpeg" width="220" alt="pageasna on instagram" />
+  <a href="https://www.instagram.com/page.asna/">
+    <img src="./Instagram.jpeg" width="40%" alt="pageasna on instagram" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/pageasna"><img src="https://img.shields.io/badge/github-3a3226?style=for-the-badge&logo=github&logoColor=ede4d3" /></a>
   <a href="https://www.linkedin.com/in/asna-mirza"><img src="https://img.shields.io/badge/linkedin-3a3226?style=for-the-badge&logo=linkedin&logoColor=ede4d3" /></a>
-  <a href="https://instagram.com/pageasna"><img src="https://img.shields.io/badge/instagram-3a3226?style=for-the-badge&logo=instagram&logoColor=ede4d3" /></a>
-  <a href="https://discord.gg/anneverse13"><img src="https://img.shields.io/badge/discord-3a3226?style=for-the-badge&logo=discord&logoColor=ede4d3" /></a>
-  <a href="mailto:asnamirza2020@gmail.com"><img src="https://img.shields.io/badge/email-3a3226?style=for-the-badge&logo=gmail&logoColor=ede4d3" /></a>
+  <a href="https://www.instagram.com/page.asna/"><img src="https://img.shields.io/badge/instagram-3a3226?style=for-the-badge&logo=instagram&logoColor=ede4d3" /></a>
+</p>
+
+<p align="center">
+  ⟡ &nbsp;<a href="https://discord.gg/anneverse13"><b>discord</b></a>&nbsp; ⟡ &nbsp;<a href="mailto:asnamirza2020@gmail.com"><b>email</b></a>&nbsp; ⟡
 </p>
 
 <p align="center">
