@@ -88,22 +88,17 @@ brain:      50% DSA, 50% "but what if this
 <h3 align="center">঄ a l g o r i t h m ঄</h3>
 
 <p align="center">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=pageasna&show_icons=true&hide_border=true&bg_color=00000000&title_color=3a3226&text_color=3a3226&icon_color=3a3226&border_color=3a3226" />
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pageasna&layout=compact&hide_border=true&bg_color=00000000&title_color=3a3226&text_color=3a3226&border_color=3a3226" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=pageasna&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pageasna&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pageasna&hide_border=true&background=00000000&ring=3a3226&fire=3a3226&currStreakLabel=3a3226&sideLabels=3a3226&currStreakNum=211c15&sideNums=211c15&dates=3a3226" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pageasna&hide_border=true&bg_color=00000000&color=3a3226&line=3a3226&point=211c15" width="90%" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=pageasna&hide_border=true&background=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 </p>
 
 <p align="center">
   ────── ⋆⋅☆⋅⋆ ──────
 </p>
-
 <details>
 <summary align="center"><b>঄ a few things about me ঄</b></summary>
 <br/>
@@ -125,7 +120,7 @@ brain:      50% DSA, 50% "but what if this
 
 <p align="center">
   <a href="https://www.instagram.com/page.asna/">
-    <img src="./Instagram.jpeg" width="40%" alt="pageasna on instagram" />
+    <img src="./Instagram.jpeg" width="20%" alt="pageasna on instagram" />
   </a>
 </p>
 
