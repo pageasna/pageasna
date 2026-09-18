@@ -143,5 +143,5 @@ brain:      50% DSA, 50% "but what if this
 </p>
 
 <p align="center">
-  <sub>asna &nbsp;·&nbsp; she/they &nbsp;·&nbsp; utc+5:30 &nbsp;·&nbsp; thank you for stopping by</sub>
+  <sub>asna &nbsp;·&nbsp; she/her &nbsp;·&nbsp; utc+5:30 &nbsp;·&nbsp; thank you for stopping by</sub>
 </p>
