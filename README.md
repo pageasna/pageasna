@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  she / they &nbsp;✦&nbsp; utc +5:30 &nbsp;✦&nbsp; breaking code, fixing it, pretending it was intentional
+  she / her &nbsp;✦&nbsp; utc +5:30 &nbsp;✦&nbsp; breaking code, fixing it, pretending it was intentional
 </p>
 
 <p align="center">
